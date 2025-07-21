@@ -1,24 +1,21 @@
-# PRODIGY_WD_02
-Stopwatch
-A simple Stopwatch built with HTML, CSS, and JavaScript. It supports start, pause, and reset features.
+# ⏱️ Stopwatch
 
-Features
-Start, pause, and reset timer.
+A simple **Stopwatch** built using **HTML**, **CSS**, and **JavaScript** with **Start, Pause, and Reset** functionality.
 
-Time format: HH:MM:SS.
+## **Features**
+- **Start, pause, and reset timer.**
+- **Time displayed in `HH:MM:SS` format.**
+- **Responsive and lightweight design.**
 
-Responsive design using pure CSS.
+## **Tech Stack**
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript (ES6)** – Functionality  
 
-Technologies
-HTML5
+## **How to Run**
+1. **Download or clone the repository.**  
+2. **Open `index.html` in any web browser.**  
+3. **Use the buttons to start, pause, or reset the stopwatch.**
 
-CSS3
 
-JavaScript (ES6)
 
-How to Use
-Open index.html in your browser.
-
-Click Start to run the stopwatch.
-
-Use Pause or Reset as needed.
