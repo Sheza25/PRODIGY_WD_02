@@ -22,7 +22,7 @@ stopwatch()
 }
 function start(){
   if(timer===null){
-   timer=setInterval(clock,100);
+   timer=setInterval(clock,1000);
     
   }
 }
