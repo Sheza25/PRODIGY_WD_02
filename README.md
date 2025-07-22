@@ -18,7 +18,7 @@ A simple **Stopwatch** built using **HTML**, **CSS**, and **JavaScript** with **
 3. **Use the buttons to start, pause, or reset the stopwatch.**
 4. ##Live Demo
 
-(https://sheza25.github.io/Responsive_landing-page/)
+(https://sheza25.github.io/Stopwatch/)
 
 
 
